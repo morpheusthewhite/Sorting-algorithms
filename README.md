@@ -1,2 +1,2 @@
 # mergeSort
-Two implementation of Merge Sort (respectively iterative and recursive)
+C implementation of merge sort and quick sort
